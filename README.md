@@ -49,7 +49,7 @@ Please read the Terms of Service carefully before you start to use the Bot. The 
 ### Basics
 
 - Buyer may contact the seller if interested on their product/services.
--   Buyers may request a specific service/product from the Post a Request feature. Services requested on Fiverr must be an allowed service on Fiverr.
+-   Buyers may request a specific service/product from the Post a Sell/Request feature.
 
 
 ## Reviews
