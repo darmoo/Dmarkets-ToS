@@ -34,7 +34,7 @@ Please read the Terms of Service carefully before you start to use the Bot. The 
 
 -   Post may be removed by Our team from the DMarkets for violations of these Terms of Service, which may include (but are not limited to) the following violations and/or materials:
     -   Illegal or Fraudulent services
-    -   Spam, nonsense, or violent or deceptive Gigs
+    -   Spam, nonsense, or violent or deceptive Post
     -   Post misleading to Buyers or others
     -   Reselling of regulated goods
     -   Low quality services or deliveries
