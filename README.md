@@ -63,3 +63,5 @@ Please read the Terms of Service carefully before you start to use the Bot. The 
 #
 ### Still need help?
 We’re [here](https://discord.com/invite/KaFWv2jJCC) for you.
+
+[HOME](https://darmoo.github.io/)
